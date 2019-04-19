@@ -13,10 +13,6 @@
 # limitations under the License.
 # ==============================================================================
 """Run fractal expansion of MovieLens 20m.
-
-Detailed analysis of the deterministic case provided in
-https://arxiv.org/abs/1901.08910.
-Please refer the paper if you use this code.
 """
 
 from __future__ import absolute_import
