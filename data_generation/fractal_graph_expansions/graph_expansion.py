@@ -12,12 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ==============================================================================
-"""Fractal graph expander.
-
-Detailed analysis in the deterministic case provided in
-https://arxiv.org/abs/1901.08910.
-Please refer the paper if you use this code.
-"""
+"""Fractal graph expander."""
 
 from __future__ import absolute_import
 from __future__ import division
