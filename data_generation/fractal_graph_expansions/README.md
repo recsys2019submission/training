@@ -12,17 +12,8 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-
-
-This is a directory used to produce larger versions of MovieLens through
-  fractal expansions. The expansion is stochastic, see equation (2) and
-  algorithm (1) in https://arxiv.org/abs/1901.08910 for more details
-  (temporary, to be replaced by white paper). The ratings are binarized,
-  each rating becoming 1.
-
 If you use this data please cite:
   * https://dl.acm.org/citation.cfm?doid=2866565.2827872
-  * https://arxiv.org/abs/1901.08910 (temporary, to be replaced by white paper)
 
 Dependencies:
   * numpy (tested with version 1.16.1)
